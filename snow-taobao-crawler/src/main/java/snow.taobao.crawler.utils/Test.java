@@ -7,6 +7,6 @@ package snow.taobao.crawler.utils;
  */
 public class Test {
     public static void main(String[] args) {
-        
+
     }
 }
