@@ -1,3 +1,4 @@
+import us.codecraft.webmagic.processor.PageProcessor;
 import us.codecraft.webmagic.processor.example.GithubRepoPageProcessor;
 
 /**
@@ -5,7 +6,7 @@ import us.codecraft.webmagic.processor.example.GithubRepoPageProcessor;
  * @Date: 2018/12/22 16:21
  * @Version 1.0
  */
-public class TaoBaoTest {
+public class TaoBaoTest{
 
     public static void main(String[] args) {
         GithubRepoPageProcessor.main(args);
